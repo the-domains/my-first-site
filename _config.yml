@@ -1,0 +1,23 @@
+name: My First Site
+favicon: null
+layout_spectrum: 0.18325731297954917
+typography_spectrum: 0.277813560096547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3711179639212787
+  lightness: 0.6841722268145531
+  saturation: 0.6012088090647012
+  rhythmicContrast: 0.07173889270052314
+purpose: []
